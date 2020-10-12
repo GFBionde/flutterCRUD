@@ -1,6 +1,6 @@
 # Flutter CRUD
 
-<br/> CRUD made with Material Flutter.
+<br/> CRUD Application made with Material Flutter.
 
 <br/> 1. This project doesn't contains a database connection, only dummy data!
 <br/> 2. All the comments were all written in PT-BR! 
