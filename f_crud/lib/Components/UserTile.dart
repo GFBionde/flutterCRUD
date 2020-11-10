@@ -29,10 +29,7 @@ class UserTile extends StatelessWidget {
         child: Row(children: <Widget>[
           // Editar usuario..
           IconButton(icon: Icon(Icons.edit), color: Colors.orange, onPressed: (){
-            Navigator.of(context).pushNamed(
-              AppRoutes.USER_FORM,
-              arguments: user,
-            );
+            Navigator.of(context).pushNamed(AppRoutes.USER_FORM, arguments: user,);
           }),
           
           // Remover usuario..
